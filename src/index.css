@@ -30,7 +30,6 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url('/public/Background.svg') ;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;

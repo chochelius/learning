@@ -6,7 +6,7 @@ const About = () => {
                 <div className="col-10 col-md-6 mx-auto my-2">
                     <p className="text-center lead fs-3">
                         <strong>
-                            Hola, mi nombre es Jorge Cortés y tengo 15 años de experiencia en el mundo de la informática y la programación, soy un profesional certificado y apasionado en múltiples lenguajes de programación. He tenido la oportunidad de contribuir en proyectos para empresas de gran envergadura como CCU, CGE, Sonda y Teleperformance.
+                            Hola, mi nombre es Jorge Cortés y tengo 15 años de experiencia en el mundo de la informática y la programación, soy un profesional apasionado y certificado en múltiples lenguajes de programación. He tenido la oportunidad de contribuir en proyectos para empresas de gran envergadura como CCU, CGE, Sonda y Teleperformance.
                             <br />
                             <br />
 

@@ -4,7 +4,8 @@ const Home = () => {
         <div>
             <div className="row">
                 <div className="col-10 col-md-6 mx-auto my-2">
-                    <p className="text-center lead fs-3"><strong>
+                    <p className="text-center lead fs-3">
+                    <strong>
                         ¿Tienes dos días libres y el deseo de dar tus primeros pasos en el mundo del desarrollo web? Entonces nuestro curso  ¡Tu Primera Página Web es para ti! Este seminario intensivo de 10 horas está diseñado para principiantes absolutos y te llevará desde cero a tener tu propia página web en tan solo dos clases.
                         <br />
                         <br />
@@ -17,7 +18,7 @@ const Home = () => {
                         <br />
                         Si estás listo para transformar tus ideas en una realidad digital en solo 10 horas, no esperes más. Únete a Tu Primera Página Web y comienza tu viaje en el apasionante mundo del desarrollo web. ¡Los cupos son limitadas, así que reserva el tuyo ahora!
                         </strong>
-                        
+
                     </p>
                 </div>
             </div>
