@@ -5,7 +5,8 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -29,6 +30,14 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('/public/Background.svg') ;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+  background-origin: padding-box;
 }
 
 h1 {

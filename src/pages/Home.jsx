@@ -1,19 +1,29 @@
 
-
 const Home = () => {
-  return (
-    <div>
-        <h1>Home</h1>
-        <div className="row">
-            <div className="col-10 col-md-6">
-    <p className="text-justify">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cumque provident harum exercitationem maiores illum modi molestias, unde veritatis. Ducimus dolores veritatis in ut, nesciunt laborum. Dolor, tempora sapiente. Enim, facilis! Nemo debitis excepturi esse porro explicabo, laudantium, aliquam deserunt soluta voluptate libero, obcaecati illo natus minima odio. A perferendis vitae amet officiis omnis facere nihil aperiam quo tenetur corrupti cum eaque illo, eveniet sequi fugiat asperiores nulla reiciendis assumenda atque sunt unde saepe nemo quasi libero. Quasi natus neque laborum veritatis architecto explicabo alias aliquam saepe, sed similique fugit, ducimus qui repudiandae dolorum eius laboriosam eaque maiores earum cumque dignissimos corrupti quidem ipsam? Sit corporis id dolorum. Corporis minima, consectetur quos odit laboriosam nisi! Illo odit minima quidem soluta dolorem commodi vero tempore incidunt sint odio recusandae non aut itaque numquam impedit suscipit repudiandae temporibus, cupiditate eligendi omnis sed quos sunt magni. Quas, voluptates ipsum. Autem, optio officiis blanditiis eveniet cupiditate quam voluptatibus recusandae corporis! Accusamus quod aliquid dolor repellendus id libero architecto excepturi consequuntur corrupti nobis ipsum numquam nisi nemo obcaecati, saepe doloremque quis dolore at, illo quisquam quos eos, odio exercitationem aliquam. Sint consequuntur porro hic quam tenetur nobis nisi nulla corrupti quisquam. Explicabo id consequatur deserunt minus, incidunt est porro! Earum culpa ratione repellat doloremque recusandae magnam similique deserunt eligendi ut, vel, cupiditate eaque quae in quidem facilis neque ipsum expedita alias libero illo odit consectetur? Delectus hic veniam rerum excepturi nemo perspiciatis non et atque quis omnis, quibusdam velit fuga corrupti odit eligendi eaque repudiandae rem tempore quas aut ut laudantium quae corporis facere. Modi perspiciatis nostrum omnis! Magnam, omnis eligendi. Magni alias non placeat fugit dolor ratione tempore ipsam ipsa corporis. Accusamus perferendis dicta totam odit, fugiat quasi, praesentium fugit corrupti minima impedit quis, modi non. Quo temporibus, dignissimos perferendis harum eaque error corrupti optio distinctio. Minima quasi, omnis blanditiis ipsa repudiandae itaque aperiam dolore! At ipsam laboriosam, vitae hic quisquam fuga excepturi aliquam nisi! Molestiae voluptatem exercitationem mollitia recusandae eveniet beatae sunt vel optio animi voluptas nam omnis cupiditate tempore, enim distinctio unde deserunt. Quod perspiciatis corrupti odit excepturi hic explicabo placeat quibusdam, beatae veniam deserunt repudiandae, ex voluptas magnam repellat sapiente. Alias iure maxime, natus, rem ullam inventore harum voluptatum voluptates debitis commodi eos beatae velit architecto mollitia vero suscipit quasi omnis amet? Ad cupiditate possimus omnis mollitia corporis ducimus quis, commodi voluptatum? Veritatis autem tempora reprehenderit labore repellendus deleniti velit vero officia illum eum, porro suscipit neque amet. Fugiat magni reprehenderit placeat odio dolor reiciendis consequuntur cumque deserunt architecto assumenda distinctio doloremque ad hic libero veniam, sunt accusamus ipsam eaque, quasi dicta expedita incidunt nostrum. Inventore velit voluptates, vel quos fuga nihil explicabo quaerat minus neque rerum labore aut sed ad est. Assumenda minus nemo quos officiis ipsa alias in, harum numquam. Nihil assumenda odit hic. Odit, adipisci placeat maxime in ex tempore nostrum vitae obcaecati officiis ea asperiores voluptatum dolorem rerum aliquam perspiciatis? Quos veritatis cum quisquam libero pariatur porro aspernatur animi reiciendis blanditiis totam, veniam sapiente corporis, fuga cupiditate?
-    </p>
+    return (
+        <div>
+            <div className="row">
+                <div className="col-10 col-md-6 mx-auto my-2">
+                    <p className="text-center lead fs-3"><strong>
+                        ¿Tienes dos días libres y el deseo de dar tus primeros pasos en el mundo del desarrollo web? Entonces nuestro curso  ¡Tu Primera Página Web es para ti! Este seminario intensivo de 10 horas está diseñado para principiantes absolutos y te llevará desde cero a tener tu propia página web en tan solo dos clases.
+                        <br />
+                        <br />
+                    
+                        La magia de Tu Primera Página Web radica en su enfoque práctico y su formato compacto. En la primera sesión de 5 horas, dominarás HTML y CSS, las herramientas esenciales para estructurar y diseñar tu sitio. En la segunda clase, sumergirás en JavaScript para darle interactividad y dinamismo a tu página.
+                        <br />
+                        <br />
+                        Nuestro objetivo en JCLabs es asegurarnos de que aprendas haciendo. Por eso, este seminario está repleto de ejercicios y proyectos prácticos que te permitirán aplicar de inmediato lo que has aprendido. Al final del segundo día, te irás con una página web funcional que habrás creado tú mismo.
+                        <br />
+                        <br />
+                        Si estás listo para transformar tus ideas en una realidad digital en solo 10 horas, no esperes más. Únete a Tu Primera Página Web y comienza tu viaje en el apasionante mundo del desarrollo web. ¡Los cupos son limitadas, así que reserva el tuyo ahora!
+                        </strong>
+                        
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
-    
-  )
+
+    )
 }
 
 export default Home
