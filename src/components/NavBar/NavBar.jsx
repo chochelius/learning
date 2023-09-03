@@ -44,11 +44,11 @@ const NavBar = () => {
 
     return (
       <>
-        <div className="position-fixed top-0 end-0 p-3" style={{ zIndex: 5 }}>
+        <div className="position-fixed top-0 end-0 p-3 d-grid gap-2" style={{ zIndex: 5 }}>
           <div className="btn-group">
             <button
               type="button"
-              className="btn btn-outline-dark btn-lg border-3"
+              className="btn btn-outline-dark border-3"
               onClick={toggleShow}
             >
               <strong>
@@ -57,7 +57,7 @@ const NavBar = () => {
             </button>
             <button
               type="button"
-              className="btn btn-outline-dark btn-lg dropdown-toggle dropdown-toggle-split border-3"
+              className="btn btn-outline-dark dropdown-toggle dropdown-toggle-split border-3"
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >

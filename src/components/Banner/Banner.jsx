@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <div className='container-fluid position-relative'>
     <div className="row">
-        <div className="col-8 mx-auto mt-5">
+        <div className="col-8 mx-auto mt-5 pt-2">
         <img src={banner} alt="banner Tu primera página web" className='img-fluid' />
         </div>
     </div>
