@@ -2,9 +2,9 @@
 const About = () => {
     return (
         <div>
-            <div className="row">
-                <div className="col-10 col-md-6 mx-auto my-2">
-                    <p className="text-center lead fs-3">
+            <div className="row bg-white bg-opacity-75">
+                <div className="col-10 col-md-6 mx-auto my-2 ">
+                    <p className="fw-medium text-center fs-3 ">
                         <strong>
                             Hola, mi nombre es Jorge Cortés y tengo 15 años de experiencia en el mundo de la informática y la programación, soy un profesional apasionado y certificado en múltiples lenguajes de programación. He tenido la oportunidad de contribuir en proyectos para empresas de gran envergadura como CCU, CGE, Sonda y Teleperformance.
                             <br />

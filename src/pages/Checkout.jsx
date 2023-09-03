@@ -10,9 +10,9 @@ const Checkout = () => {
 
     return (
         <div>
-            <div className="row">
-                <div className="col-10 col-md-6 mx-auto my-2">
-                    <p className="text-center lead fs-3">
+            <div className="row bg-white bg-opacity-75">
+                <div className="col-10 col-md-6 mx-auto my-2 ">
+                    <p className="fw-medium text-center fs-3 ">
                         <strong>
                             Nuestro seminario Tu Primera Página Web tiene un costo de $40,000 CLP y está limitado a solo 10 cupos por sesión para asegurar un aprendizaje efectivo y personalizado.
                             <br />

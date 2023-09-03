@@ -2,9 +2,9 @@
 const Home = () => {
     return (
         <div>
-            <div className="row">
-                <div className="col-10 col-md-6 mx-auto my-2">
-                    <p className="text-center lead fs-3">
+            <div className="row bg-white bg-opacity-75">
+                <div className="col-10 col-md-6 mx-auto my-2 ">
+                    <p className="fw-medium text-center fs-3 ">
                     <strong>
                         ¿Tienes dos días libres y el deseo de dar tus primeros pasos en el mundo del desarrollo web? Entonces nuestro curso  ¡Tu Primera Página Web es para ti! Este seminario intensivo de 10 horas está diseñado para principiantes absolutos y te llevará desde cero a tener tu propia página web en tan solo dos clases.
                         <br />

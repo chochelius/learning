@@ -3,9 +3,9 @@ const Signup = () => {
   return (
 
     <div>
-      <div className="row">
-        <div className="col-10 col-md-6 mx-auto my-2">
-          <p className="text-center lead fs-3">
+      <div className="row bg-white bg-opacity-75">
+        <div className="col-10 col-md-6 mx-auto my-2 ">
+          <p className="fw-medium text-center fs-3 ">
             <strong>
               ¿Eres un joven entre 15 y 99 años con conocimientos básicos en computación? ¿Alguna vez has ocupado Word o algo similar para escribir? ¿Quieres adentrarte en el fascinante mundo del desarrollo web? ¡Este curso es perfecto para ti! Tu Primera Página Web es un seminario intensivo de 10 horas, repartidas en dos sesiones de 5 horas durante un fin de semana.
               <br />

@@ -86,14 +86,14 @@ const NavBar = () => {
           hidden={!show}
           aria-labelledby="offcanvasExampleLabel"
         >
-          <div className="d-flex flex-column align-items-center text-black">
+          <div className="d-flex flex-column align-items-center text-black col-lg-8">
             <h3 id="offcanvasExampleLabel" className='fs-1'>Reserva tu cupo ahora</h3>
             <p className='fs-2'>
-              Si quieres inscribirte más información sobre el curso puedes inscribirte haciendo onClick
+              Si quieres unirte a este desafío al alcance de cualquiera que haya usado alguna vez Microsoft Word o algo similar, puedes inscribirte haciendo click
 
             </p>
             <button type="button" className="btn btn-outline-dark btn-lg border-3" onClick={handleClose}>
-              <Link to="/checkout">Aquí</Link>
+              <Link to="/checkout" className=' text-dark'>Aquí</Link>
             </button>
           </div>
         </div>
